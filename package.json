@@ -1,0 +1,20 @@
+{
+  "name": "webcrawler-javascript",
+  "version": "0.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "ajv": "^6.5.1",
+    "jquery": "^3.3.1",
+    "json": "^9.0.6"
+  },
+  "devDependencies": {
+    "babel-install": "2.1.0",
+    "webpack": "^4.12.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alicia",
+  "license": "ISC",
+  "description": "A javascript web crawler"
+}
